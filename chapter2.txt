@@ -1,0 +1,5 @@
+Eugene's to do List
+1. Study node.js documentation
+2. learn more css tricks
+3. master javascript front end basics
+4. study new frameworks
