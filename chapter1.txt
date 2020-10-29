@@ -1,2 +1,3 @@
 Hello World!
 testing to type in vim.
+doing some modification to understand git checkout (diff branch)
