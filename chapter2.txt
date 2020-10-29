@@ -3,3 +3,4 @@ Eugene's to do List
 2. learn more css tricks
 3. master javascript front end basics
 4. study new frameworks
+5. study more javascript from github
